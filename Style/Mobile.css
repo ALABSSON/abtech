@@ -185,6 +185,7 @@
 .Section3 {
   height: 87vh;
   align-items: center;
+    margin-bottom: 30px;
 }
     .SecThreeWrap {
       flex-direction: column;
